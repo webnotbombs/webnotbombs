@@ -1,0 +1,11 @@
+<svg viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-178.000000, -652.000000)" fill="#E0BF02">
+            <g id="Sidebar" sketch:type="MSLayerGroup">
+                <g id="Links" transform="translate(127.000000, 652.000000)" sketch:type="MSShapeGroup">
+                    <path d="M61,2.98557692 L59.1828704,2.98557692 C58.5192901,2.98557692 58.0717593,3.11538462 57.8402778,3.375 C57.6087963,3.63461538 57.4930556,4.02403846 57.4930556,4.54326923 L57.4930556,6.58774038 L60.8842593,6.58774038 L60.4328704,9.78966346 L57.4930556,9.78966346 L57.4930556,18 L53.9513889,18 L53.9513889,9.78966346 L51,9.78966346 L51,6.58774038 L53.9513889,6.58774038 L53.9513889,4.22956731 C53.9513889,2.88822115 54.3526235,1.84795673 55.1550926,1.10877404 C55.9575617,0.369591346 57.0262346,0 58.3611111,0 C59.4953704,0 60.375,0.0432692308 61,0.129807692 L61,2.98557692 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
